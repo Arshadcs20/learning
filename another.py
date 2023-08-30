@@ -1,2 +1,3 @@
-print('another')
-print("misbah")
+# print('another')
+print("misbah", end="")
+print(" Arshad")
